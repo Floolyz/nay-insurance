@@ -1,0 +1,44 @@
+* { 
+    padding: 0;
+    margin: 0;
+}
+.container { 
+    width: 1920px;
+    height: 1080px;
+    width: 100%;
+}
+header h1 { 
+    
+    text-align: center;
+    padding-top: 1.7rem;
+
+}
+.btn1 img { 
+    max-width: 100%;
+}
+.btn1 { 
+    margin-top: 1.7rem;
+    text-align: center;
+}
+body { 
+    background-color: rgb(226, 255, 254);
+}
+header p { 
+    text-align: center;
+    font-size: 1.7rem;
+    margin: 2rem;
+    margin-top: 1rem;
+}
+footer { 
+    text-align: center;
+}
+.eieis {
+    margin: 1.3rem;
+    max-width: 100%;
+    text-align: center;  
+}
+.eieis img {
+    margin: 1.3rem;
+    max-width: 100%;
+    text-align: center;  
+}
